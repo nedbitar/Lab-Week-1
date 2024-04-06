@@ -2,6 +2,7 @@
 
 I am a *Computer Engineering* major at **UCSD** and I really enjoy it. I get to see how things are put together from an electrical, hardware, and software level. It is really amazing. 
 > My favorite quote of all time is: *"Start Early and Start Often".*
+
 If you're interested, you can find more about my experience in CSE 167 in the [CSE 167 Section](#my-favorite-course-cse-167).
 
 ## Classes I am taking this Quarter:
