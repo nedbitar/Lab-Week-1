@@ -24,11 +24,12 @@ The hardest class I have taken from last quarter is CSE 167. You can find more a
 - [ ] Start preparing for Interviews
 - [ ] Attend career fair
 
+##### You Should Also Visit my [README.MD](README.MD)
 
 ## My favorite Course: CSE 167!
 
-My all time favorite class at UCSD has to be **CSE 167**. It definitely happened to be the hardest. I had to relearn a lot of linear algebra, and eventually I was tasked with coding up my own raytracer from scratch. It was incredibly fun. If you are more interested you can check out the course website:
-https://cseweb.ucsd.edu//~viscomp/classes/cse167/wi24/index.html
+My all time favorite class at UCSD has to be **CSE 167**. It definitely happened to be the hardest. I had to relearn a lot of linear algebra, and eventually I was tasked with coding up my own raytracer from scratch. It was incredibly fun. If you are more interested you can check out the course website: [CSE 167 Winter 2024](https://cseweb.ucsd.edu//~viscomp/classes/cse167/wi24/index.html)
+
 
 ### Here is an image my raytracer generated:
 ![Raytracer Image](scene7.png)
