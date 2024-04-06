@@ -34,7 +34,7 @@ My all time favorite class at UCSD has to be **CSE 167**. It definitely happened
 ### Here is an image my raytracer generated:
 ![Raytracer Image](scene7.png)
 
-*Watermark is necessary to avoid any academic integrity violations.*
+<sub>*Watermark is necessary to avoid any academic integrity violations.*</sub>
 
 #### Things I enjoyed in CSE 167:
 - Learning linear algebra
