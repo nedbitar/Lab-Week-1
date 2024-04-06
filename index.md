@@ -24,7 +24,7 @@ The hardest class I have taken from last quarter is CSE 167. You can find more a
 - [ ] Start preparing for Interviews
 - [ ] Attend career fair
 
-##### You Should Also Visit my [README.MD](README.MD)
+##### You Should Also Visit my [README.MD](README.md)
 
 ## My favorite Course: CSE 167!
 
