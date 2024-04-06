@@ -31,7 +31,7 @@ My all time favorite class at UCSD has to be **CSE 167**. It definitely happened
 https://cseweb.ucsd.edu//~viscomp/classes/cse167/wi24/index.html
 
 ### Here is an image my raytracer generated:
-![Raytracer Image](https://raviucsdgroup.s3.amazonaws.com/hw3/1fdcb4a94eab2a0bb148f2d2cf5f8a0d/20240321184156/scene7.png)
+![Raytracer Image](scene7.png)
 
 *Watermark is necessary to avoid any academic integrity violations.*
 
