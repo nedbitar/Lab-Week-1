@@ -32,6 +32,8 @@ My all time favorite class at UCSD has to be **CSE 167**. It definitely happened
 
 
 ### Here is an image my raytracer generated:
+![Specular](https://raviucsdgroup.s3.amazonaws.com/hw3/1fdcb4a94eab2a0bb148f2d2cf5f8a0d/20240321184156/scene4-specular.png)
+![Cornell](https://raviucsdgroup.s3.amazonaws.com/hw3/1fdcb4a94eab2a0bb148f2d2cf5f8a0d/20240321184156/scene6.png)
 ![Raytracer Image](scene7.png)
 
 <sub>*Watermark is necessary to avoid any academic integrity violations.*</sub>
